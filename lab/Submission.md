@@ -1,2 +1,2 @@
 # Hello From IST 707
-![Codespace create](../assets/sponge.jpeg)
+![Image of spongebob](./sponge.jpeg)
