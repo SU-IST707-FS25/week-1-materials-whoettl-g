@@ -1,2 +1,2 @@
 # Hello From IST 707
-![Codespace view](../assets/sponge.jpeg)
+![Codespace create](../assets/sponge.jpeg)
