@@ -1,2 +1,2 @@
 # Hello From IST 707
-![Image of spongebob](./sponge.jpeg)
+![Image of squidward](../lab/squidward.png)
